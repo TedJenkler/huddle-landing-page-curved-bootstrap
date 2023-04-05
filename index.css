@@ -38,6 +38,10 @@ body, html {
     height: 2.5em;
 }
 
+#header-button:hover {
+    color: hsl(322, 100%, 36%);
+}
+
 /* First Text = ft */
 
 #article1 {
@@ -67,6 +71,10 @@ body, html {
     padding: 1em;
     width: 20em;
     margin-top: 1em;
+}
+
+#ft-button:hover {
+ color: hsl(322, 100%, 36%);
 }
 /* First Img*/
 #mockup {
@@ -201,6 +209,10 @@ body, html {
     border: none;
 }
 
+#signup-btn:hover {
+     color: hsl(322, 100%, 36%);
+}
+
 #footercurve {
     margin: 5em 0 0 0;
     background-image: url(./bg-footer-top-desktop.svg);
@@ -247,6 +259,10 @@ body, html {
     height: 2.5 em;
     background-color: hsl(322, 100%, 66%);
     color: white;
+}
+
+#sub-btn:hover {
+     color: hsl(322, 100%, 36%);
 }
 
 @media (max-width: 1200px) {
